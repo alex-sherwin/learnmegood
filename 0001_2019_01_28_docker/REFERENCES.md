@@ -7,4 +7,7 @@
   * [CoreOS](https://coreos.com/)
   * [Alpine](https://alpinelinux.org/)
   * [Mono Kernel](https://en.wikipedia.org/wiki/Monolithic_kernel)
-  * []
+  * [Linux Kernel](https://en.wikipedia.org/wiki/Linux_kernel)
+  * [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
+  * [C POSIX Library](https://en.wikipedia.org/wiki/C_POSIX_library)
+  * [Standard Streams](https://en.wikipedia.org/wiki/Standard_streams)

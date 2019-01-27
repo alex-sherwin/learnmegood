@@ -1,0 +1,4 @@
+stream_pipe [b]
+stream_pipe [a]
+stream_parse [c]
+{ hello: 'world' }
