@@ -11,3 +11,4 @@
   * [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
   * [C POSIX Library](https://en.wikipedia.org/wiki/C_POSIX_library)
   * [Standard Streams](https://en.wikipedia.org/wiki/Standard_streams)
+  * [POSIX Process Signals](https://en.wikipedia.org/wiki/Signal_(IPC)#POSIX_signals)
