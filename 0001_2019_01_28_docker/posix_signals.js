@@ -6,6 +6,10 @@ process.on("SIGUSR2", (signal) => {
   console.error(`caught ${signal}, reloading my config files`);
 });
 
+process.on("SIGHUP", (signal) => {
+  console.error(`caught ${signal}, doing nothing...`);
+});
+
 process.on("SIGTERM", (signal) => {
   console.error(`caught ${signal}, shutting down gracefully in 3 seconds`);
   setTimeout(() => {
