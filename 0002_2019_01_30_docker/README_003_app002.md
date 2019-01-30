@@ -22,7 +22,7 @@ docker logs -f app002-FIXME_YOUR_NAME_HERE
 # hit the webserver
 
 ```bash
-curl --verbose -X POST --data-ascii "hello world" "http://localhost:8888/some/path"
+curl --verbose -X POST --data-ascii "hello world" "http://localhost:FIXME/some/path"
 ```
 
 # stop the webserver
