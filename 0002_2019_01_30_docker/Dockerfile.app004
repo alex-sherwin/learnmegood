@@ -1,0 +1,12 @@
+# based on our node-base image
+FROM node-base
+
+# copy app004.js as /app.js
+COPY app_stages/app004.js /app.js
+
+# run /app.js by default
+CMD ["/app.js"]
+
+ENV DATA_DIR=/data
+
+VOLUME /data

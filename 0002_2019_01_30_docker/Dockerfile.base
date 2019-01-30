@@ -1,0 +1,8 @@
+# https://hub.docker.com/_/debian/
+FROM debian:sid
+
+RUN apt-get update 
+RUN apt-get install -y nodejs
+RUN apt-get install -y vim less net-tools
+
+ENTRYPOINT ["node"]

@@ -1,0 +1,8 @@
+# based on our node-base image
+FROM node-base
+
+# copy app003.js as /app.js
+COPY app_stages/app003.js /app.js
+
+# run /app.js by default
+CMD ["/app.js"]
