@@ -1,1 +1,0 @@
-console.error(`hello world: {${process.argv.slice(2).join(",")}}`);
