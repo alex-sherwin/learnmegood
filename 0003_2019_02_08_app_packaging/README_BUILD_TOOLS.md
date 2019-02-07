@@ -44,7 +44,7 @@ These views are my (Alex) own, based on practical, applied experience over time.
 
 * Wants to replace Maven
    * Primary argument was Maven config is too verbose (is that even valid? IDE support + code completion for XML make this moot IMHO.  I think authoring a Gradle file is much harder.)
-* Based on Gradle
+* Based on Groovy
    * Dead language.  No one really cares anymore after Java 8 w/ lambda's.
    * Lost initial two corporate sponsorship for langauge development
    * Introduces no less then two variations for allowed syntax to define the same data structures
