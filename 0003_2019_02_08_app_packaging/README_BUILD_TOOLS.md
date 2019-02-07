@@ -140,6 +140,6 @@ We use it, for example, to:
    1. Polyfills (part of above)
    1. Minification
    1. Module loading system emulation (makes browsers work like node when resolving dependencies)
-1. Analyze, compress, optimize assets (images, SVGs, fonts, etc)
+1. Analyze, compress, optimize assets (raster images, SVGs, fonts, etc)
 1. Stylesheet processing (CSS, PostCSS, SASS, LESS, etc)
 1. Package all your sources, dependencies, assets, styles together in the smallest most optimal way
