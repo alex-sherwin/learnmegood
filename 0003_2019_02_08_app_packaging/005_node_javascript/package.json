@@ -1,0 +1,10 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "scripts": {
+    "codegen:clean": "rimraf ./codegen/dist"
+  },
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
