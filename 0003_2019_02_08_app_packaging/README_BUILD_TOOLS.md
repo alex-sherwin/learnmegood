@@ -109,7 +109,7 @@ No structure
 
 ### Gulp
 
-Tried to improve on Gulp by making everything stream/piplines.
+Tried to improve on Grunt by making everything stream/piplines.
 
 One thing feeds into the next.
 
